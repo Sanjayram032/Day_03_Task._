@@ -1,0 +1,34 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: #011627;
+    color:#fdfffc;
+    text-align:center;
+    background-image: url('https://media.istockphoto.com/id/1419844586/vector/stem-blue-horizontal-frame-vector-education-bright-illustration.jpg?s=612x612&w=0&k=20&c=-A1eYLYulujNsiM26lkVy7qMT_Hp82N5EtKHSFRmigk=');
+}
+h1{
+    font-size: 45px;
+    color:rgb(255, 255, 255);
+}
+input{
+    width: 75px;
+    height:50px;
+    font-size:45px;
+    border-radius: 10px;
+    margin:10px;
+    background-color: white;
+    color: black;
+    border-style:groove;
+}
+.btn:hover{
+    background-color:palegreen;
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
