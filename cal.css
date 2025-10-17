@@ -4,7 +4,8 @@ body{
     background-color: #011627;
     color:#fdfffc;
     text-align:center;
-    background-image: url('https://media.istockphoto.com/id/1419844586/vector/stem-blue-horizontal-frame-vector-education-bright-illustration.jpg?s=612x612&w=0&k=20&c=-A1eYLYulujNsiM26lkVy7qMT_Hp82N5EtKHSFRmigk=');
+    background-image: url('https://static.vecteezy.com/system/resources/previews/012/244/430/non_2x/simple-vintage-background-with-classic-decoration-border-free-vector.jpg');
+    background-position: center;
 }
 h1{
     font-size: 45px;
@@ -21,7 +22,7 @@ input{
     border-style:groove;
 }
 .btn:hover{
-    background-color:palegreen;
+    background-color:silver;
     cursor:pointer;
 }
 
