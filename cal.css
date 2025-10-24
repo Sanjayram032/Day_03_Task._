@@ -1,6 +1,13 @@
 body{
-    margin:0px;
-    padding: 0px;
+    border:5px ridge black;
+    margin-left:420px ;
+    margin-right:420px ;
+    margin-top: 48px;
+    margin-bottom: 50px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     background-color: #011627;
     color:#fdfffc;
     text-align:center;
@@ -8,28 +15,21 @@ body{
     background-position: center;
 }
 h1{
-    font-size: 45px;
-    color:rgb(255, 255, 255);
+    font-size:61px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(220, 225, 225);
 }
 input{
     width: 75px;
     height:50px;
-    font-size:45px;
+    font-size:30px;
     border-radius: 10px;
     margin:10px;
     background-color: white;
     color: black;
-    border-style:groove;
+    border-style:groove ;
 }
 .btn:hover{
     background-color:silver;
     cursor:pointer;
 }
-
-
-
-
-
-
-
-
