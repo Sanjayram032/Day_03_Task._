@@ -1,11 +1,11 @@
 body{
-    border:5px ridge black;
+    border:3px ridge black;
     margin-left:420px ;
     margin-right:420px ;
-    margin-top: 48px;
+    margin-top: 30px;
     margin-bottom: 50px;
     padding-top: 2px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     padding-left: 10px;
     padding-right: 10px;
     background-color: #011627;
@@ -13,6 +13,8 @@ body{
     text-align:center;
     background-image: url('https://static.vecteezy.com/system/resources/previews/012/244/430/non_2x/simple-vintage-background-with-classic-decoration-border-free-vector.jpg');
     background-position: center;
+    overflow: hidden;
+
 }
 h1{
     font-size:61px;
